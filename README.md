@@ -1,6 +1,6 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# H1 Heading
+## H2 Heading
+### H3 Heading
+#### H4 Heading
+##### H5 Heading
+###### H6 Heading
